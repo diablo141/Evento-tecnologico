@@ -233,7 +233,7 @@ ul li::before {
     border: 1px solid var(--primary);
     border-radius: 8px;
     padding: 20px;
-    text-align: center;
+    text-align: left;
     color: var(--text-light);
     transition: all 0.3s ease;
     box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
@@ -288,6 +288,32 @@ button {
     font-weight: bold;
     cursor: pointer;
     transition: background 0.3s ease;
+}
+
+button:hover {
+    background: var(--secondary);
+    color: var(--text-light);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    border-top: 2px solid var(--primary);
+    color: var(--text-muted);
+    position: relative;
+}
+
+footer::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, var(--accent), var(--secondary), var(--primary));
+    animation: borderGlow 2s linear infinite reverse;
 }
 
 /* Responsive */
