@@ -2,8 +2,8 @@ prompts 1 : crea una estructura en html para evento:"Evento tecnologico inacap",
 
 prompts 2 : mejora el css con un diseño tecnologico y llamativo al publico
 
-prompts 3 : |
+prompts 3 : |agrega nuevas secciones de actividades, beneficios , invitados, inscripcion 
 
-prompts 4 : 
+prompts 4 : has el sitio responsive
 
 prompts 5 :
