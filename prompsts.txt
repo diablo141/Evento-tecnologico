@@ -1,0 +1,9 @@
+prompts 1 : crea una estructura en html para evento:"Evento tecnologico inacap", descripcion de evento: Asiste al evento tecnologico de Inacap en el cual se realizaran presentacionde de robotica, creacion de videojuegos y entrega de premio a los mejores competidores al nivel nacional  
+
+prompts 2 : 
+
+prompts 3 :
+
+prompts 4 : 
+
+prompts 5 :
